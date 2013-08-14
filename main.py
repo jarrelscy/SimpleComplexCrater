@@ -1,3 +1,3 @@
 # Main file
 
-print 'Sup jonny'
+print 'Sup'
